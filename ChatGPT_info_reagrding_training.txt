@@ -1,0 +1,38 @@
+Tips ChatGTP gave me:
+
+1. Specify the scope: 
+	Clearly define the specific topics or areas you want ChatGPT to focus on. 
+	For example, if you only want information about certain columns or
+	aspects of the data, mention that explicitly.
+
+2. Clarify terminology:
+	If there are industry-specific terms or abbreviations used in the 
+	For example, if you only want information about certain columns or aspects of the data, mention that explicitly.
+
+
+3. Highlight key details:
+	Point out any critical information or patterns in the data that ChatGPT should pay attention to when providing responses.
+
+4. Provide context:
+	Offer background information or context about the data, such as
+	 its source, purpose, or relevance, to help ChatGPT generate more accurate and meaningful responses.
+
+5. Encourage accuracy:
+	Emphasize the importance of accuracy and precision in responses, especially when dealing with specific data or technical details.
+
+
+Examples to incorporate instructions into your communication with ChatGPT:
+
+"Please focus on the columns 'Frequency,' 'Duplex,' and 'Offset' in the CSV file I've provided.
+Ensure you understand that 'Duplex' indicates whether the offset is positive, negative, or missing.
+Also, pay attention to the terminology used, such as 'Tone,' which refers to the tone type.
+Remember to provide accurate information based solely on the data provided in the CSV file.
+Thank you for your attention to detail!"
+
+"ChatGPT, please note that when I include the '!' symbol in our conversation, it signifies
+ important instructions or data that you should pay close attention to. 
+ For example, if I start a message with '!', it means I'm providing relevant information or
+ commands that you need to remember or act upon.
+ Please ensure you respond accordingly and incorporate this information into your responses.
+ Thank you for your cooperation!"
+
