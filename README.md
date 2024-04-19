@@ -16,7 +16,8 @@ This is created to break up information into multiple messages.
 The tool splits information in digestable parts of around 4000 characters in separate files in the 4ChatGTP directory.
 To feed this information you need to:
 1) Copy this from GitHub to your computer. 
-2) Empty the 4ChatGTP/ directory  (files with info for ChatGTP will be placed in this directory.
+2) Empty the 4ChatGTP/ directory  (files with info for ChatGTP will be placed in this directory).
+		(Optional delete items in the tmp directory )
 3) Copy the data in a subdirectory of subject/<yoursubject>/    -  Create this directory for your own subject. 
 																	In this github are available
 																			subject/template/	Empty template for <yoursunject>
@@ -34,5 +35,4 @@ Make a copy of the intro.txt file in the to_ChatGPT directory
 merge the files in subject/quansheng/strict_csv/ and after that splitup the merge_file and place the output in the to_ChatGPT directory. 
 
 
-there is also a tmp/ directory 
-
+Possible improvements to do are in ToDo.md
