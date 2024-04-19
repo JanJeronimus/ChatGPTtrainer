@@ -13,7 +13,7 @@ The responce was:
 
 This is created to break up information into multiple messages.
 
-The tool splits information in digestable parts of around 4000 characters in separate files in the 4ChatGTP directory.
+The tool splits information in digestible parts of around 4000 characters in separate files in the 4ChatGTP directory.
 ## To feed this information you need to:
 1) Copy this from GitHub to your computer. 
 2) Empty the 4ChatGTP/ directory  (files with info for ChatGTP will be placed in this directory).
