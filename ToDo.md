@@ -1,12 +1,12 @@
 # ToDo ChatGPT trainer
 
-##List of possible improvements
+## List of possible improvements
 
-###subjects
+### subjects
     Add new subjects, a good subject usable for demo to everyone
 
-###code
-    Af functionality to ignore .files
+### code
+    Add functionality to ignore . (dot) files
 
     Put more of the code currently in the  to_ChatGPT.py script in the class to simplify the scripts
 
@@ -15,4 +15,4 @@
     Add functions for
     - content in .pdf files
     - ( content in other file types .xlsx  etc )
-    - web_scraper to get content from web pages
+    - to get content from web page ( web_scraper )
